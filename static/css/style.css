@@ -1,0 +1,29 @@
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color: rgb(175, 158, 4);
+    transition: 1s all;
+}
+.carte
+{
+    height: 300px;
+    width: 500px;
+    margin-left: 30px;
+}
+.back-drapeau section.back
+{
+    background-image: url("../img/drapeau.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80% 80%;
+    width: 49%;
+    margin-left: 25%;
+    height: 400px;
+}
+.mini-drapeau
+{
+    width: 80px;
+    height: 70px;
+}
